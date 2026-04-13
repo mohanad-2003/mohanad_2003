@@ -55,10 +55,10 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohanad-zaqout-b2462b3a1" target="blank">
+<a href="https://www.linkedin.com/in/mohanad-zaqout-b2462b3a1" target="_blank">
   LinkedIn
 </a> |
-<a href="https://www.https://www.upwork.com/freelancers/~01002f46f029e4400d?mp_source=https://www.upwork.com/freelancers/~01002f46f029e4400d?mp_source=share" target="blank">
+<a href="https://www.upwork.com/freelancers/~01002f46f029e4400d" target="_blank">
   Upwork
 </a>
 </p>
