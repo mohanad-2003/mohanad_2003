@@ -42,12 +42,9 @@
 
 <!-- Add your app screenshots here -->
 <p align="center">
-  <img src="<img width="481" height="1019" alt="Screenshot 2026-04-13 144411" src="https://github.com/user-attachments/assets/47243d90-f2a6-4403-a6ba-50795e0886cf" />
-" width="200"/>
-  <img src="<img width="472" height="1015" alt="Screenshot 2026-04-13 144548" src="https://github.com/user-attachments/assets/41a38f7e-9b4a-45e2-a14f-7814c3ec5c90" />
-" width="200"/>
-  <img src="<img width="471" height="1027" alt="Screenshot 2026-04-13 144624" src="https://github.com/user-attachments/assets/cb7fffb9-36bc-47fa-a578-91cb883d6284" />
-" width="200"/>
+  <img src="https://github.com/user-attachments/assets/47243d90-f2a6-4403-a6ba-50795e0886cf" width="200"/>
+  <img src="https://github.com/user-attachments/assets/41a38f7e-9b4a-45e2-a14f-7814c3ec5c90" width="200"/>
+  <img src="https://github.com/user-attachments/assets/cb7fffb9-36bc-47fa-a578-91cb883d6284" width="200"/>
 </p>
 
 ---
