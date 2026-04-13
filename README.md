@@ -52,6 +52,35 @@
 
 ---
 
+### 🟢 Bank App
+> A modern fintech Flutter app with clean UI & smooth experience
+
+- 💳 Account & Card Management  
+- 💸 Money Transfer & Withdraw  
+- 📊 Transaction History  
+- 🎨 Modern UI Design  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e3913ae-f245-464f-9387-8c194e7d6c4b" width="200"/>
+</p>
+
+👉  [View Project](https://github.com/mohanad-2003/Bank-App)
+---
+
+### 🟡 E-Commanded App
+> A full-featured e-commerce Flutter app with modern UI
+
+- 🛒 Shopping Cart  
+- ❤️ Favorites  
+- 🔍 Search & Categories  
+- 📦 Product Details
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82fbd26e-8bbb-4bc5-b9d3-2ae37bc060f5" width="200"/>
+</p>
+
+👉 [View Project](https://github.com/mohanad-2003/E-commerce-App)
+---
 ## 🌐 Connect with me
 
 <p align="left">
