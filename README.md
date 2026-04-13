@@ -1,4 +1,7 @@
-<img width="481" height="1019" alt="Screenshot 2026-04-13 144411" src="https://github.com/user-attachments/assets/72c05e68-2622-4139-85d6-e142754b3c33" /><h1 align="center">Hi 👋, I'm Mohanad</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba3c5f53-74cb-4637-b1e5-d61bf518a6e3" width="300"/>
+</p>
+" /><h1 align="center">Hi 👋, I'm Mohanad</h1>
 <h3 align="center">Flutter Developer | Building scalable mobile apps 🚀</h3>
 
 ---
