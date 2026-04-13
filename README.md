@@ -76,7 +76,7 @@
 - 📦 Product Details
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82fbd26e-8bbb-4bc5-b9d3-2ae37bc060f5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a9bcf3c4-1842-44c3-b320-9fe2096abaa2" width="200"/>
 </p>
 
 👉 [View Project](https://github.com/mohanad-2003/E-commerce-App)
